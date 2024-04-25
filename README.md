@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yaandle
+- 👀 I’m interested in alot.
+- 🌱 I’m currently learning our to help business automate their workflow through sustainable methods.
+- 💞 I’m looking to collaborate with agency owners.
