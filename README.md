@@ -15,5 +15,7 @@ Eldnay Digital: Social Media Marketing Agency.
 MiFood: Robotics automation company.
 
 Yk Solutions: Software and Robotics automation provider.
+
 Agency YK Hub: Educational platform for agency owners.
+
 Connect: Platform to connect contractors with businesses and employers.
