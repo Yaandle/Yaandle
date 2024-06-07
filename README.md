@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning our to help business automate their workflow through sustainable methods.
 - 💞 I’m looking to collaborate with agency owners.
 
+
 Here are some projects I have worked on in the past and are currently now.
 
 Athletic Directory: Platform to connect personal trainers and coaches with clients.
