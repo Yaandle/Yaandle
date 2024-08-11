@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Yaandle
-- 👀 I’m interested in alot.
-- 🌱 I’m currently learning our to help business automate their workflow through sustainable methods.
+- 👀 I’m interested in a lot.
+- 🌱 I’m currently learning hur to help business automate their workflow through sustainable methods.
 - 💞 I’m looking to collaborate with agency owners.
 
 
 
-Here are some projects I have worked on in the past and are currently now.
+Here are some projects I have worked on.
 
 Athletic Directory: Platform to connect personal trainers and coaches with clients.
 
