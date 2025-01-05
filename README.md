@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaandle
-- 👀 I’m interested in a lot.
-- 🌱 I’m currently learning hur to help business automate their workflow through sustainable methods.
-- 💞 I’m looking to collaborate with agency owners.
+- 👀 
+- 🌱 
+- 💞 
 
 
 
@@ -13,10 +13,11 @@ ODIS: Object Detection Image Sorting software for photography businesses.
 
 Eldnay Digital: Social Media Marketing Agency.
 
-MiFood: Robotics automation company.
-
-Yk Solutions: Software and Robotics automation provider.
+Yk Solutions: Software, Technology and Solutions provider.
 
 Agency YK Hub: Educational platform for agency owners.
 
 Connect: Platform to connect contractors with businesses and employers.
+
+MiFood: Robotics automation company.
+
