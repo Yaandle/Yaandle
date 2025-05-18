@@ -19,7 +19,3 @@ Agency YK Hub: Educational platform for agency owners.
 Connect: Platform to connect contractors with businesses and employers.
 
 MiFood: Robotics automation company.
-
-I have primarily used languages: Python, C++, TypeScript, HTML, CSS
-
-Frameworks/Libraries: Next.js, Flask, Streamlit, Ultralytics (YOLO), PyTorch, ROS, IntelRealsense
